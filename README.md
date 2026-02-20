@@ -1,2 +1,2 @@
-# ramadan-saathi-privacy-policy
-Privacy Policy for Ramadan Saathi app
+# Islamic-Habit-Companion-privacy-policy
+Privacy Policy for Islamic Habit Companion app
