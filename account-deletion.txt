@@ -1,0 +1,19 @@
+Delete Your Account – Islamic Habit Companion
+
+If you would like to delete your account and associated data, please follow the steps below:
+
+1. Send an email to: zndigitalofficial@gmail.com
+2. Use subject: "Account Deletion Request"
+3. Mention your registered email ID
+
+Data that will be deleted:
+- Name
+- Email address
+- App usage data (if any)
+- Removed from firestore
+
+Retention:
+Your data will be permanently deleted within 14 days of request.
+
+Note:
+Some data may be retained for legal or security purposes if required.
